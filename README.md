@@ -16,7 +16,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 | URL                        | Status | History                                                                          | Response Time                                                             | Uptime                                                                                                                                                                                                       |
 | -------------------------- | ------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Laur](https://laur.work/) | 🟩 Up  | [laur.yml](https://github.com/edbighead/upptime/commits/master/history/laur.yml) | <img alt="Response time graph" src="./graphs/laur.png" height="20"> 197ms | [![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fedbighead%2Fupptime%2Fmaster%2Fapi%2Flaur%2Fuptime.json)](https://edbighead.github.io/upptime/history/laur) |
+| [Laur](https://laur.work/) | 🟩 Up  | [laur.yml](https://github.com/edbighead/upptime/commits/master/history/laur.yml) | <img alt="Response time graph" src="./graphs/laur.png" height="20"> 190ms | [![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fedbighead%2Fupptime%2Fmaster%2Fapi%2Flaur%2Fuptime.json)](https://edbighead.github.io/upptime/history/laur) |
 
 <!--end: status pages-->
 
